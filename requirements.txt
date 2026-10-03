@@ -1,1 +1,3 @@
+anthropic>=1.11
+jsonschema
 pytest
